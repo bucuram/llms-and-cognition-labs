@@ -8,8 +8,12 @@ Lab 0 - [Understanding LLMs + Labs Overview](https://github.com/bucuram/llms-and
 
 Lab 1 - [Working with Text](https://github.com/bucuram/llms-and-cognition-labs/blob/main/lab1.ipynb)
 
+Lab 2 - [Attention Mechanisms](https://github.com/bucuram/llms-and-cognition-labs/blob/main/lab2.ipynb)
+
 (to be continued..)
 
 Useful resources:
 - [The Annotated Transformer](https://github.com/harvardnlp/annotated-transformer/blob/master/AnnotatedTransformer.ipynb): line-by-line implementation of the [Attention Is All You Need](https://arxiv.org/pdf/1706.03762) paper.
 - [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
+- [Let's build GPT - Andrej Karpathy](https://www.youtube.com/watch?v=kCc8FmEb1nY)
+- [Stanford CS25: V2 I Introduction to Transformers](https://www.youtube.com/watch?v=XfpMkf4rD6E&list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM&index=12)
