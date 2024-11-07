@@ -10,6 +10,8 @@ Lab 1 - [Working with Text](https://github.com/bucuram/llms-and-cognition-labs/b
 
 Lab 2 - [Attention Mechanisms](https://github.com/bucuram/llms-and-cognition-labs/blob/main/lab2.ipynb)
 
+Lab 3 - [Implementing a GPT model from Scratch](https://github.com/bucuram/llms-and-cognition-labs/blob/main/lab3.ipynb)
+
 (to be continued..)
 
 Useful resources:
