@@ -12,6 +12,9 @@ Lab 2 - [Attention Mechanisms](https://github.com/bucuram/llms-and-cognition-lab
 
 Lab 3 - [Implementing a GPT model from Scratch](https://github.com/bucuram/llms-and-cognition-labs/blob/main/lab3.ipynb)
 
+Lab 3 - [Pretraining on Unlabeled Data](https://github.com/bucuram/llms-and-cognition-labs/blob/main/lab4.ipynb)
+
+
 (to be continued..)
 
 Useful resources:
